@@ -31,9 +31,9 @@ Then say:
 "start object detection"
 
 ## How It Works
-The program starts with an intro audio
-It listens continuously for a voice command
-When "start" is detected, the webcam activates
-YOLOv8 performs real-time object detection
-Highlighted with bounding boxes
-Announced using text-to-speech
+- The program starts with an intro audio
+- It listens continuously for a voice command
+- When "start" is detected, the webcam activates
+- YOLOv8 performs real-time object detection
+- Highlighted with bounding boxes
+- Announced using text-to-speech
