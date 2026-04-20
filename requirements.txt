@@ -1,0 +1,6 @@
+pygame
+SpeechRecognition
+pyttsx3
+opencv-python
+ultralytics
+pyaudio
